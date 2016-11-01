@@ -1,2 +1,38 @@
 # iOSTemplate
-创建默认的iOS项目开发模版,设置默认配置
+
+## Dependence
+
+- Installing Xcodeproj
+```
+	$ [sudo] gem install xcodeproj
+```
+
+## Start
+
+```
+	$ ruby build.rb
+```
+
+## Content of Template
+
+- Setting files
+
+> README.md    
+
+> Podfile    
+
+> .gitignore
+   
+- Default folders
+
+> ``` 
+	['View', 'Model','ViewModel', 
+	'Controller','Extension', 'Resources', 
+	'DataBase', 'net']
+```
+
+- Script
+
+> Build script  
+
+> Image script
