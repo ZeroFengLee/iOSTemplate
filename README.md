@@ -2,6 +2,10 @@
 
 `Xcode`    `Swift3`    `iOS`
 
+## CreenShot
+
+![image](https://raw.githubusercontent.com/ZeroFengLee/iOSTemplate/master/screenshot.gif)
+
 ## Dependence
 
 - Installing Xcodeproj
