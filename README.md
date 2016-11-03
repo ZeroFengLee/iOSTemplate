@@ -20,7 +20,7 @@
 
     	1. $ cd baseProj
 
-    	2. ruby build.rb
+    	2. $ ruby build.rb
 ```
 
 ## Content of Template
