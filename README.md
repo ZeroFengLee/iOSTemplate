@@ -1,5 +1,5 @@
 # iOSTemplate
-`Xcode` `Swift3` `iOS`
+	`Xcode` 	`Swift3` 	`iOS`
 
 ## Dependence
 
@@ -11,36 +11,36 @@
 ## Start
 
 ```
-    // put baseProj floder into pragram's root
+    	// put baseProj floder into pragram's root
 
-    1. $ cd baseProj
+    	1. $ cd baseProj
 
-    2. ruby build.rb
+    	2. ruby build.rb
 ```
 
 ## Content of Template
 
 - Setting files
 
- README.md    
+ 	README.md    
 
- Podfile    
+ 	Podfile    
 
- .gitignore
+ 	.gitignore
    
 - Default folders   
 
-`View`   
-`Model`   
-`ViewModel`   
-`Controller`   
-`Extension`   
-`Resources`   
-`DataBase`   
-`Net`   
+	`View`   
+	`Model`   
+	`ViewModel`   
+	`Controller`   
+	`Extension`   
+	`Resources`   
+	`DataBase`   
+	`Net`   
 
 - Script
 
- Build script  
+ 	Build script  
 
- Image script
+ 	Image script
