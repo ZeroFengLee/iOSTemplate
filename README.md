@@ -1,5 +1,6 @@
 # iOSTemplate
-	`Xcode` 	`Swift3` 	`iOS`
+
+`Xcode`    `Swift3`    `iOS`
 
 ## Dependence
 
