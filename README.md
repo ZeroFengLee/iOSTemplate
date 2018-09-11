@@ -24,7 +24,7 @@ $ [sudo] gem install xcodeproj
 ```
 
 ## Content of Template
-
+```
 root   
 |    README.md    
 |    Podfile   
@@ -40,4 +40,5 @@ root
 |   |    `Net`   
 |-- script    
 |   |    `Build script`   
-|___|    `Image script`   
+|___|    `Image script` 
+```
