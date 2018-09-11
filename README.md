@@ -30,15 +30,15 @@ root
 |    Podfile   
 |    .gitignore   
 |-- project   
-|   |    `View`     
-|   |    `Model`     
-|   |    `ViewModel`   
-|   |    `Controller`   
-|   |    `Extension`   
-|   |    `Resources`   
-|   |    `DataBase`   
-|   |    `Net`   
+|   |    View     
+|   |    Model     
+|   |    ViewModel   
+|   |    Controller   
+|   |    Extension   
+|   |    Resources   
+|   |    DataBase   
+|   |    Net   
 |-- script    
-|   |    `Build script`   
-|___|    `Image script` 
+|   |    Build script   
+|___|    Image script 
 ```
