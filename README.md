@@ -25,19 +25,19 @@ $ [sudo] gem install xcodeproj
 
 ## Content of Template
 
-root
-|    README.md
-|    Podfile
-|    .gitignore
-|-- project
-|   |    `View`   
-|   |    `Model`  
-|   |    `ViewModel`
-|   |    `Controller`
-|   |    `Extension`
-|   |    `Resources`
-|   |    `DataBase`
-|   |    `Net`
-|-- script 
-|   |    `Build script`
-|___|    `Image script`
+root   
+|    README.md    
+|    Podfile   
+|    .gitignore   
+|-- project   
+|   |    `View`     
+|   |    `Model`     
+|   |    `ViewModel`   
+|   |    `Controller`   
+|   |    `Extension`   
+|   |    `Resources`   
+|   |    `DataBase`   
+|   |    `Net`   
+|-- script    
+|   |    `Build script`   
+|___|    `Image script`   
